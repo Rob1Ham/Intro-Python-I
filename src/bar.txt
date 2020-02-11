@@ -1,0 +1,3 @@
+My test function should have 3 lines
+Luckily I can use the escape key
+Very Cool!
