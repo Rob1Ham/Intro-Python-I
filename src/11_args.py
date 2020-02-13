@@ -17,10 +17,7 @@ print(f1(1, 2))
 # YOUR CODE HERE
 
 def f2(*numbers):
-    x = 0 
-    for num in numbers:
-        x += num
-    return x
+    return sum(numbers)
 
 print(f2(1))                    # Should print 1
 print(f2(1, 3))                 # Should print 4
